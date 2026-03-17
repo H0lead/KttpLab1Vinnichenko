@@ -6,6 +6,9 @@ import (
 )
 
 func main() {
-	fmt.Println("Hello, world!")
+	fmt.Println("Привіт!")
+
+	fmt.Print("Вдалого дня!")
+
 	time.Sleep(10 * time.Second)
 }
