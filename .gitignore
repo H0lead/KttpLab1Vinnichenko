@@ -1,0 +1,24 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+[56789a].out
+*.cgo*
+_obj/
+_test/
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool
+*.out
+
+# Dependency directories
+# vendor/ 
+
+# Project-specific binaries (optional)
+# By default, "go build" names the binary after the root directory name.
+# If you place binaries in a 'bin' directory, you can ignore that:
+bin/
